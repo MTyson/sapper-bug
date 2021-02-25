@@ -1,0 +1,24 @@
+<?xml version="1.0"?><svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>red popsicle</title>
+ <metadata id="metadata4146">image/svg+xml</metadata>
+ <g>
+  <title>Layer 1</title>
+  <g id="layer1">
+   <g id="g4884">
+    <g id="g4814">
+     <rect id="rect4198" width="54.285713" height="391.42856" x="239.819089" y="-227.642576" ry="27.142857" stroke-miterlimit="4" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.805754" stroke="#000202" fill-rule="evenodd" fill="#ff7f00" transform="matrix(0.594636, 0, 0, 0.542374, 157.297, 358.838)"/>
+     <rect id="rect4198-5-29" width="54.285713" height="391.42856" x="238.390509" y="-229.071166" ry="27.142857" stroke-miterlimit="4" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.805754" stroke="#000202" fill-rule="evenodd" fill="#ff7f00" transform="matrix(0.594636, 0, 0, 0.542374, 157.297, 358.838)"/>
+    </g>
+    <g id="g4878">
+     <rect id="rect4822" width="270" height="571.42859" x="608.39048" y="-737.64263" ry="84.089828" rx="93.247421" stroke-miterlimit="4" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.805754" stroke="#000202" fill-rule="evenodd" fill="#ff7f00" transform="matrix(0.594636, 0, 0, 0.542374, -128.978, 430.122)"/>
+     <rect id="rect4822-7" width="270" height="571.42859" x="607.67624" y="-737.64264" ry="84.089828" rx="93.247421" stroke-miterlimit="4" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.805754" stroke="#000202" fill-rule="evenodd" fill="#ff7f00" transform="matrix(0.594636, 0, 0, 0.542374, -128.978, 430.122)"/>
+    </g>
+    <rect ry="27.142857" y="-634.7855" x="342.676236" height="391.42856" width="54.285713" id="rect4198-5" stroke-miterlimit="4" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.805754" stroke="#000202" fill-rule="evenodd" fill="#ff7f00" transform="matrix(0.594636, 0, 0, 0.542374, 65.5527, 431.671)"/>
+    <rect ry="27.142857" y="-636.21405" x="442.676266" height="391.42856" width="54.285713" id="rect4198-5-2" stroke-miterlimit="4" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.805754" stroke="#000202" fill-rule="evenodd" fill="#ff7f00" transform="matrix(0.594636, 0, 0, 0.542374, 65.5527, 431.671)"/>
+   </g>
+  </g>
+  <image x="137.299988" y="163.399994" width="2" height="24" id="svg_4" xlink:href="images/logo.png"/>
+  <path id="svg_5" d="m302.300781,340.398438l27,0l0,102l-27,0l0,-102z" stroke-width="5" stroke="#000000" fill="#c45f01"/>
+  <image xlink:href="images/logo.png" id="svg_13" y="224" x="258"/>
+ </g>
+</svg>
