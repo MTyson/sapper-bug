@@ -9,6 +9,9 @@ import SVG from "./orange-popsicle-vector.svg";
 <nav>
 	<ul>
 		<li>
+			{#if process.browser}
+				<SVG />
+				{/if}
 			<a href="/">
 			  <span style="color: orangered; font-weight:bold;">The</span> 
 				{#if process.browser}
@@ -20,7 +23,9 @@ import SVG from "./orange-popsicle-vector.svg";
 		
 		<li><a  href="about">about</a></li>
 		<li>
-				
+			{#if process.browser}
+			<SVG />
+			{/if}
 	  </li>
 	</ul>
 </nav>
