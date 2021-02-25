@@ -11,7 +11,9 @@ import SVG from "./orange-popsicle-vector.svg";
 		<li>
 			<a href="/">
 			  <span style="color: orangered; font-weight:bold;">The</span> 
+				{#if process.browser}
 				<SVG />
+				{/if}
 			  <span style="color: orangered; font-weight:bold;">Referendum</span>
 			</a>
 		</li>
